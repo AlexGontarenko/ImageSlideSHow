@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlideShowApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_position">My position finded:</string>
+    <string name="get_and_start_button_label">Get and Start!</string>
+    <string name="label_time_slidihg">Time slide: %1$.1f sec</string>
+    <string name="label_image_count">Count image: %1$d</string>
+    <string name="position_finded">YES</string>
+    <string name="position_find">NO</string>
+
+    <string name="label_menu_stop">STOP</string>
+    <string name="label_menu_start">START</string>
+
+    <string name="label_menu_share">Share</string>
+    <string name="share_with">Share with...</string>
+    <string name="place_at_me">Palce at me!</string>
+
+</resources>
