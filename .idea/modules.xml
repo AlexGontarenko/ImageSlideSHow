@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImageSlideShow.iml" filepath="$PROJECT_DIR$/ImageSlideShow.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlideShowApp.iml" filepath="$PROJECT_DIR$/SlideShowApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/gesture-imageview.iml" filepath="$PROJECT_DIR$/mylibrary/gesture-imageview.iml" />

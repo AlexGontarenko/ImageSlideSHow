@@ -1,6 +1,7 @@
 package ru.redmadrobot.alexgontarenko.slideshow.fragments;
 
 import android.annotation.SuppressLint;
+import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
